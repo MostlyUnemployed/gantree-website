@@ -174,14 +174,13 @@
 </ResponsiveContainer>
 
 <ResponsiveContainer secondary={true}>
-  <div class="w-responsive pa3">
+  <div class="w-responsive pa3 h-75">
     <h2>Join our community!</h2>
     <p>
       Interested in using or contributing to Gantree? We're fostering an
       open-source community where anybody can help us to
       <i>
-        Empower any organisation to cultivate and grow the peer to peer
-        economy".
+        empower any organisation to cultivate and grow the peer to peer economy.
       </i>
     </p>
     <p>Have a feature idea, bug to report or want to make a pull request?</p>
@@ -195,7 +194,7 @@
       <Button src="/img/twitter.png" text="Twitter" click={twitter} />
     </div>
   </div>
-  <div class="w-responsive pa3">
+  <div class="w-responsive pa3 h-75">
     <h2>Want to get in touch?</h2>
     <p>
       We'll get back to you as soon as we can, in the meantime check out our

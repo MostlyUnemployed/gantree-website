@@ -134,19 +134,19 @@
       <a
         class="resource"
         target="_new"
-        href="https://github.com/flex-dapps/gantree-lib-nodejs">
+        href="https://github.com/gantree-io/gantree-lib-nodejs">
         gantree-lib
       </a>
       <a
         class="resource"
         target="_new"
-        href="https://github.com/flex-dapps/gantree-lib-nodejs/blob/dev/docs/gantree_config/tutorial.md">
+        href="https://github.com/gantree-io/gantree-lib-nodejs/blob/dev/docs/gantree_config/tutorial.md">
         tutorial
       </a>
       <a
         class="resource"
         target="_new"
-        href="https://github.com/flex-dapps/gantree-cli">
+        href="https://github.com/gantree-io/gantree-cli">
         gantree-cli
       </a>
       <a
